@@ -1,1 +1,1 @@
-# Deteccion_Rostros
+# QuerynTalk de detección de rostros. 
