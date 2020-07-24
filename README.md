@@ -1,1 +1,1 @@
-# QuerynTalk de detección de rostros. 
+# QuerynTalk de detección de rostros en tiepo real
